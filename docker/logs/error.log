@@ -124,3 +124,4 @@
 2021/10/05 22:50:54 [notice] 1#1: start worker process 40
 2021/10/05 22:50:54 [notice] 1#1: start worker process 41
 2021/10/05 22:50:54 [notice] 1#1: start worker process 42
+2021/10/05 23:41:59 [error] 31#31: *8 directory index of "/app/" is forbidden, client: 172.18.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:1080"
