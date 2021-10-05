@@ -1,0 +1,126 @@
+2021/10/04 20:51:32 [notice] 1#1: using the "epoll" event method
+2021/10/04 20:51:32 [notice] 1#1: nginx/1.21.3
+2021/10/04 20:51:32 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/10/04 20:51:32 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2021/10/04 20:51:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/10/04 20:51:32 [notice] 1#1: start worker processes
+2021/10/04 20:51:32 [notice] 1#1: start worker process 32
+2021/10/04 20:51:32 [notice] 1#1: start worker process 33
+2021/10/04 20:51:32 [notice] 1#1: start worker process 34
+2021/10/04 20:51:32 [notice] 1#1: start worker process 35
+2021/10/04 20:51:32 [notice] 1#1: start worker process 36
+2021/10/04 20:51:32 [notice] 1#1: start worker process 37
+2021/10/04 20:51:32 [notice] 1#1: start worker process 38
+2021/10/04 20:51:32 [notice] 1#1: start worker process 39
+2021/10/04 20:51:32 [notice] 1#1: start worker process 40
+2021/10/04 20:51:32 [notice] 1#1: start worker process 41
+2021/10/04 20:51:32 [notice] 1#1: start worker process 42
+2021/10/04 20:51:32 [notice] 1#1: start worker process 43
+2021/10/05 07:21:01 [notice] 1#1: using the "epoll" event method
+2021/10/05 07:21:01 [notice] 1#1: nginx/1.21.3
+2021/10/05 07:21:01 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/10/05 07:21:01 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2021/10/05 07:21:01 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/10/05 07:21:01 [notice] 1#1: start worker processes
+2021/10/05 07:21:01 [notice] 1#1: start worker process 31
+2021/10/05 07:21:01 [notice] 1#1: start worker process 32
+2021/10/05 07:21:01 [notice] 1#1: start worker process 33
+2021/10/05 07:21:01 [notice] 1#1: start worker process 34
+2021/10/05 07:21:01 [notice] 1#1: start worker process 35
+2021/10/05 07:21:01 [notice] 1#1: start worker process 36
+2021/10/05 07:21:01 [notice] 1#1: start worker process 37
+2021/10/05 07:21:01 [notice] 1#1: start worker process 38
+2021/10/05 07:21:01 [notice] 1#1: start worker process 39
+2021/10/05 07:21:01 [notice] 1#1: start worker process 40
+2021/10/05 07:21:01 [notice] 1#1: start worker process 41
+2021/10/05 07:21:01 [notice] 1#1: start worker process 42
+2021/10/05 12:30:14 [notice] 1#1: using the "epoll" event method
+2021/10/05 12:30:14 [notice] 1#1: nginx/1.21.3
+2021/10/05 12:30:14 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/10/05 12:30:14 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2021/10/05 12:30:14 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/10/05 12:30:14 [notice] 1#1: start worker processes
+2021/10/05 12:30:14 [notice] 1#1: start worker process 31
+2021/10/05 12:30:14 [notice] 1#1: start worker process 32
+2021/10/05 12:30:14 [notice] 1#1: start worker process 33
+2021/10/05 12:30:14 [notice] 1#1: start worker process 34
+2021/10/05 12:30:14 [notice] 1#1: start worker process 35
+2021/10/05 12:30:14 [notice] 1#1: start worker process 36
+2021/10/05 12:30:14 [notice] 1#1: start worker process 37
+2021/10/05 12:30:14 [notice] 1#1: start worker process 38
+2021/10/05 12:30:14 [notice] 1#1: start worker process 39
+2021/10/05 12:30:14 [notice] 1#1: start worker process 40
+2021/10/05 12:30:14 [notice] 1#1: start worker process 41
+2021/10/05 12:30:14 [notice] 1#1: start worker process 42
+2021/10/05 20:37:44 [notice] 1#1: using the "epoll" event method
+2021/10/05 20:37:44 [notice] 1#1: nginx/1.21.3
+2021/10/05 20:37:44 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/10/05 20:37:44 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2021/10/05 20:37:44 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/10/05 20:37:44 [notice] 1#1: start worker processes
+2021/10/05 20:37:44 [notice] 1#1: start worker process 32
+2021/10/05 20:37:44 [notice] 1#1: start worker process 33
+2021/10/05 20:37:44 [notice] 1#1: start worker process 34
+2021/10/05 20:37:44 [notice] 1#1: start worker process 35
+2021/10/05 20:37:44 [notice] 1#1: start worker process 36
+2021/10/05 20:37:44 [notice] 1#1: start worker process 37
+2021/10/05 20:37:44 [notice] 1#1: start worker process 38
+2021/10/05 20:37:44 [notice] 1#1: start worker process 39
+2021/10/05 20:37:44 [notice] 1#1: start worker process 40
+2021/10/05 20:37:44 [notice] 1#1: start worker process 41
+2021/10/05 20:37:44 [notice] 1#1: start worker process 42
+2021/10/05 20:37:44 [notice] 1#1: start worker process 43
+2021/10/05 21:20:32 [notice] 1#1: using the "epoll" event method
+2021/10/05 21:20:32 [notice] 1#1: nginx/1.21.3
+2021/10/05 21:20:32 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/10/05 21:20:32 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2021/10/05 21:20:32 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/10/05 21:20:32 [notice] 1#1: start worker processes
+2021/10/05 21:20:32 [notice] 1#1: start worker process 32
+2021/10/05 21:20:32 [notice] 1#1: start worker process 33
+2021/10/05 21:20:32 [notice] 1#1: start worker process 34
+2021/10/05 21:20:32 [notice] 1#1: start worker process 35
+2021/10/05 21:20:32 [notice] 1#1: start worker process 36
+2021/10/05 21:20:32 [notice] 1#1: start worker process 37
+2021/10/05 21:20:32 [notice] 1#1: start worker process 38
+2021/10/05 21:20:32 [notice] 1#1: start worker process 39
+2021/10/05 21:20:32 [notice] 1#1: start worker process 40
+2021/10/05 21:20:32 [notice] 1#1: start worker process 41
+2021/10/05 21:20:32 [notice] 1#1: start worker process 42
+2021/10/05 21:20:32 [notice] 1#1: start worker process 43
+2021/10/05 22:07:09 [notice] 1#1: using the "epoll" event method
+2021/10/05 22:07:09 [notice] 1#1: nginx/1.21.3
+2021/10/05 22:07:09 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/10/05 22:07:09 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2021/10/05 22:07:09 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/10/05 22:07:09 [notice] 1#1: start worker processes
+2021/10/05 22:07:09 [notice] 1#1: start worker process 32
+2021/10/05 22:07:09 [notice] 1#1: start worker process 33
+2021/10/05 22:07:09 [notice] 1#1: start worker process 34
+2021/10/05 22:07:09 [notice] 1#1: start worker process 35
+2021/10/05 22:07:09 [notice] 1#1: start worker process 36
+2021/10/05 22:07:09 [notice] 1#1: start worker process 37
+2021/10/05 22:07:09 [notice] 1#1: start worker process 38
+2021/10/05 22:07:09 [notice] 1#1: start worker process 39
+2021/10/05 22:07:09 [notice] 1#1: start worker process 40
+2021/10/05 22:07:09 [notice] 1#1: start worker process 41
+2021/10/05 22:07:09 [notice] 1#1: start worker process 42
+2021/10/05 22:07:09 [notice] 1#1: start worker process 43
+2021/10/05 22:50:54 [notice] 1#1: using the "epoll" event method
+2021/10/05 22:50:54 [notice] 1#1: nginx/1.21.3
+2021/10/05 22:50:54 [notice] 1#1: built by gcc 10.3.1 20210424 (Alpine 10.3.1_git20210424) 
+2021/10/05 22:50:54 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2021/10/05 22:50:54 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/10/05 22:50:54 [notice] 1#1: start worker processes
+2021/10/05 22:50:54 [notice] 1#1: start worker process 31
+2021/10/05 22:50:54 [notice] 1#1: start worker process 32
+2021/10/05 22:50:54 [notice] 1#1: start worker process 33
+2021/10/05 22:50:54 [notice] 1#1: start worker process 34
+2021/10/05 22:50:54 [notice] 1#1: start worker process 35
+2021/10/05 22:50:54 [notice] 1#1: start worker process 36
+2021/10/05 22:50:54 [notice] 1#1: start worker process 37
+2021/10/05 22:50:54 [notice] 1#1: start worker process 38
+2021/10/05 22:50:54 [notice] 1#1: start worker process 39
+2021/10/05 22:50:54 [notice] 1#1: start worker process 40
+2021/10/05 22:50:54 [notice] 1#1: start worker process 41
+2021/10/05 22:50:54 [notice] 1#1: start worker process 42
