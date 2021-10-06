@@ -12,14 +12,55 @@
 
 
 <body>
-    <form action="" method="post">
-        <label for="data[]">nom del fitxer</label>
-        <input type="text" name="data[]" id="data1">
-        <label for="data[]">intro tenxt</label>
-        <input type="text" name="data[]" id="data2">
-        <label for="data[]">nom del fitxer</label>
-        <input type="text" name="data[]" id="data3">
-        <button type="submit">Enviar</button>
+    <form action="lecturaEscritura1.2.php" method="post">
+        <table class="table  w-50 table-striped table-dark center">
+            <thead></thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <div class="">
+                            <label for="data[]">nom del fitxer</label>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="">
+                            <input type="text" name="data[]" id="data1">
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="">
+                            <label for="data[]">intro text 1</label>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="">
+                            <input type="text" name="data[]" id="data2">
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="">
+                            <label for="data[]">intro text 2</label>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="">
+                            <input type="text" name="data[]" id="data3">
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <div class="">
+                            <button type="submit" class="btn btn-outline-light">Enviar</button>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
     </form>
 
 </body>
