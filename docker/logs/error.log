@@ -199,3 +199,4 @@
 2021/10/05 23:43:39 [notice] 1#1: start worker process 43
 2021/10/05 23:43:56 [error] 33#33: *2 directory index of "/app/" is forbidden, client: 172.18.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:1080"
 2021/10/05 23:44:46 [error] 33#33: *2 directory index of "/app/" is forbidden, client: 172.18.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:1080"
+2021/10/06 00:37:18 [error] 32#32: *48 directory index of "/app/" is forbidden, client: 172.18.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:1080"
